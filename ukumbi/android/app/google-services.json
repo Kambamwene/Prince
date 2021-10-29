@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999293645816",
+    "project_id": "prince-a03d9",
+    "storage_bucket": "prince-a03d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999293645816:android:7f9c2ff7aecba77811dc0d",
+        "android_client_info": {
+          "package_name": "com.prince.ukumbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999293645816-jesjucqa93sbk04nnslo6s5hnbo3lk8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbTb2bmlyzl1hk9dtGWdFsEIPTR1gyO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999293645816-jesjucqa93sbk04nnslo6s5hnbo3lk8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
